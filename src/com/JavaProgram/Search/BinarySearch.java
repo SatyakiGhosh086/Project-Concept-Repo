@@ -52,5 +52,6 @@ public class BinarySearch
 		{
 			System.out.println("Element found at "+ res);
 		}
+		System.out.println("This is added for Git changes");
 	}
 }
